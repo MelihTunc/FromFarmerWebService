@@ -1,0 +1,9 @@
+D:\Projects\FromFarmer\FromFarmer.Entities\bin\Debug\netcoreapp3.1\FromFarmer.Entities.deps.json
+D:\Projects\FromFarmer\FromFarmer.Entities\bin\Debug\netcoreapp3.1\FromFarmer.Entities.dll
+D:\Projects\FromFarmer\FromFarmer.Entities\bin\Debug\netcoreapp3.1\FromFarmer.Entities.pdb
+D:\Projects\FromFarmer\FromFarmer.Entities\obj\Debug\netcoreapp3.1\FromFarmer.Entities.AssemblyInfoInputs.cache
+D:\Projects\FromFarmer\FromFarmer.Entities\obj\Debug\netcoreapp3.1\FromFarmer.Entities.AssemblyInfo.cs
+D:\Projects\FromFarmer\FromFarmer.Entities\obj\Debug\netcoreapp3.1\FromFarmer.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\FromFarmer\FromFarmer.Entities\obj\Debug\netcoreapp3.1\FromFarmer.Entities.dll
+D:\Projects\FromFarmer\FromFarmer.Entities\obj\Debug\netcoreapp3.1\FromFarmer.Entities.pdb
+D:\Projects\FromFarmer\FromFarmer.Entities\obj\Debug\netcoreapp3.1\FromFarmer.Entities.csprojAssemblyReference.cache

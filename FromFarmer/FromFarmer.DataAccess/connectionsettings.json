@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "FromFarmerDB": "User ID=postgres;Password=216477Lw;Server=127.0.0.1;Port=5432;Database=FromFarmerDB;Integrated Security=true;Pooling=true;"
+  }
+}

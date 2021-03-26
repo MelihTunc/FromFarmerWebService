@@ -1,0 +1,12 @@
+D:\Projects\FromFarmer\FromFarmer.Utilities\bin\Debug\netcoreapp3.1\FromFarmer.Utilities.deps.json
+D:\Projects\FromFarmer\FromFarmer.Utilities\bin\Debug\netcoreapp3.1\FromFarmer.Utilities.dll
+D:\Projects\FromFarmer\FromFarmer.Utilities\bin\Debug\netcoreapp3.1\FromFarmer.Utilities.pdb
+D:\Projects\FromFarmer\FromFarmer.Utilities\bin\Debug\netcoreapp3.1\FromFarmer.Entities.dll
+D:\Projects\FromFarmer\FromFarmer.Utilities\bin\Debug\netcoreapp3.1\FromFarmer.Entities.pdb
+D:\Projects\FromFarmer\FromFarmer.Utilities\obj\Debug\netcoreapp3.1\FromFarmer.Utilities.csprojAssemblyReference.cache
+D:\Projects\FromFarmer\FromFarmer.Utilities\obj\Debug\netcoreapp3.1\FromFarmer.Utilities.AssemblyInfoInputs.cache
+D:\Projects\FromFarmer\FromFarmer.Utilities\obj\Debug\netcoreapp3.1\FromFarmer.Utilities.AssemblyInfo.cs
+D:\Projects\FromFarmer\FromFarmer.Utilities\obj\Debug\netcoreapp3.1\FromFarmer.Utilities.csproj.CoreCompileInputs.cache
+D:\Projects\FromFarmer\FromFarmer.Utilities\obj\Debug\netcoreapp3.1\FromFarmer.Utilities.csproj.CopyComplete
+D:\Projects\FromFarmer\FromFarmer.Utilities\obj\Debug\netcoreapp3.1\FromFarmer.Utilities.dll
+D:\Projects\FromFarmer\FromFarmer.Utilities\obj\Debug\netcoreapp3.1\FromFarmer.Utilities.pdb

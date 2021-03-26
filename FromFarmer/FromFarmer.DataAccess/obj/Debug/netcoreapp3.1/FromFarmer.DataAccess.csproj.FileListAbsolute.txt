@@ -1,0 +1,15 @@
+D:\Projects\FromFarmer\FromFarmer.DataAccess\bin\Debug\netcoreapp3.1\FromFarmer.DataAccess.deps.json
+D:\Projects\FromFarmer\FromFarmer.DataAccess\bin\Debug\netcoreapp3.1\FromFarmer.DataAccess.dll
+D:\Projects\FromFarmer\FromFarmer.DataAccess\bin\Debug\netcoreapp3.1\FromFarmer.DataAccess.pdb
+D:\Projects\FromFarmer\FromFarmer.DataAccess\bin\Debug\netcoreapp3.1\FromFarmer.Entities.dll
+D:\Projects\FromFarmer\FromFarmer.DataAccess\bin\Debug\netcoreapp3.1\FromFarmer.Utilities.dll
+D:\Projects\FromFarmer\FromFarmer.DataAccess\bin\Debug\netcoreapp3.1\FromFarmer.Utilities.pdb
+D:\Projects\FromFarmer\FromFarmer.DataAccess\bin\Debug\netcoreapp3.1\FromFarmer.Entities.pdb
+D:\Projects\FromFarmer\FromFarmer.DataAccess\obj\Debug\netcoreapp3.1\FromFarmer.DataAccess.csprojAssemblyReference.cache
+D:\Projects\FromFarmer\FromFarmer.DataAccess\obj\Debug\netcoreapp3.1\FromFarmer.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\FromFarmer\FromFarmer.DataAccess\obj\Debug\netcoreapp3.1\FromFarmer.DataAccess.AssemblyInfo.cs
+D:\Projects\FromFarmer\FromFarmer.DataAccess\obj\Debug\netcoreapp3.1\FromFarmer.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\FromFarmer\FromFarmer.DataAccess\obj\Debug\netcoreapp3.1\FromFarmer.DataAccess.csproj.CopyComplete
+D:\Projects\FromFarmer\FromFarmer.DataAccess\obj\Debug\netcoreapp3.1\FromFarmer.DataAccess.dll
+D:\Projects\FromFarmer\FromFarmer.DataAccess\obj\Debug\netcoreapp3.1\FromFarmer.DataAccess.pdb
+D:\Projects\FromFarmer\FromFarmer.DataAccess\bin\Debug\netcoreapp3.1\connectionsettings.json
